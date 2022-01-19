@@ -2,7 +2,9 @@
 ### A Social Media App to Keep Up with Your Favorite Video Games and Friends!
 ![MIT License badge](https://img.shields.io/badge/license-MIT_License-green)
 
-![team-up-demo](https://user-images.githubusercontent.com/79285555/135899724-ec3f6fd1-df3d-440f-98c4-ab6397837ca9.gif)
+[![team-up-demo](https://user-images.githubusercontent.com/79285555/135899724-ec3f6fd1-df3d-440f-98c4-ab6397837ca9.gif)](https://protected-depths-21600.herokuapp.com/)
+
+###Live Site: https://protected-depths-21600.herokuapp.com/
 
 ## Description
 * Team-Up is a gaming social networking app, where you can follow your favorite games, and add users with similar game interest to team up!
